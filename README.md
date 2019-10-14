@@ -1,0 +1,2 @@
+[![Build Status](https://travis-ci.com/bhas2797/polls2797.svg?branch=continuous-integration)](https://travis-ci.com/bhas2797/polls2797)
+[![Coverage Status](https://coveralls.io/repos/github/bhas2797/polls2797/badge.svg?branch=master)](https://coveralls.io/github/bhas2797/polls2797?branch=master)
